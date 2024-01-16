@@ -18,6 +18,6 @@
 * Lucia Babernics,  Luxchaan,  Japanese and literatures 
 * Júlia Matamala, JuliaMatamala, Anciet and Medieval studies
 * Amélie Solanilla, AmelieST, Ancient and Medieval studies
-*Anita Licata, Anital12, Linguistic mediation
+* Anita Licata, Anital12, Linguistic mediation
 * Selena Bartra Serrano, Slenabs, Literature
 * Laura Dalgaard, lauradalgaard, Film & Media 
