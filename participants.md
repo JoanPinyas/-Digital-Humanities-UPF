@@ -20,3 +20,4 @@
 * Amélie Solanilla, AmelieST, Ancient and Medieval studies
 *Anita Licata, Anital12, Linguistic mediation
 * Selena Bartra Serrano, Slenabs, Literature
+* Laura Dalgaard, lauradalgaard, Film & Media 
