@@ -14,7 +14,7 @@
 * Susana Marquez Parente, susanamarquez, Modern and Contemporary World
 * Vinyet Arbiol Giménez, Contemporary Art
 * Laura Raduà Carnicer, LauraRC2, Literature
-*
+* Sofia Angelbratt, sofiaadina96, Media & Culture
 *
 *
 *
