@@ -21,3 +21,4 @@
 * Anita Licata, Anital12, Linguistic mediation
 * Selena Bartra Serrano, Slenabs, Literature
 * Laura Dalgaard, lauradalgaard, Film & Media 
+* Pau Arissa, PAC0303, Art
