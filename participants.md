@@ -16,5 +16,5 @@
 * Laura Raduà Carnicer, LauraRC2, Literature
 * Sofia Angelbratt, sofiaadina96, Media & Culture
 * Lucia Babernics,  Luxchaan,  Japanese and literatures 
-*
+* Júlia Matamala, JuliaMatamala, Anciet and Medieval studies
 *
