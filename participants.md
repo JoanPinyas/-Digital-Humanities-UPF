@@ -9,7 +9,7 @@
 ### Add your Name, GitHub Name, Discipline
 
 * Paula Gonzalez Luque, modern and contemporary art
-* Bryan Bravo, bbravo101, Student
+* Bryan Bravo, bbravo101, Computer Science
 * Naihara Santillan Hernandez, Nei03, History
 * Susana Marquez Parente, susanamarquez, Modern and Contemporary World
 * Vinyet Arbiol Giménez, Contemporary Art
