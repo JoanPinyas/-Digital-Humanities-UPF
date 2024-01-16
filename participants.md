@@ -22,3 +22,4 @@
 * Selena Bartra Serrano, Slenabs, Literature
 * Laura Dalgaard, lauradalgaard, Film & Media 
 * Pau Arissa, PAC0303, Art
+* Miguel Berros Domínguez, Centoleiro, History
