@@ -17,4 +17,5 @@
 * Sofia Angelbratt, sofiaadina96, Media & Culture
 * Lucia Babernics,  Luxchaan,  Japanese and literatures 
 * Júlia Matamala, JuliaMatamala, Anciet and Medieval studies
-*
+* Amélie Solanilla, AmelieST, Ancient and Medieval studies
+
